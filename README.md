@@ -1,7 +1,9 @@
 # Extreme-Scale-course
 This repository is for the PHY905(sec004) Spring 2016, Designing and building applications for Extreme-Scale System
 
-#Notes for the lectures videos
+#Notes for the lectures videos 
+
+##Meeting 01/19/2016
 
 ###Discussions at the end of 2nd leture：
 
@@ -15,3 +17,19 @@ This repository is for the PHY905(sec004) Spring 2016, Designing and building ap
 1. What about other algorithms such as Strassen's Algorithm, and how would that algorithm change this analysis?
 	- [Strassen Algorithm] (https://en.wikipedia.org/wiki/Strassen_algorithm)
 		- reduce the number of operations
+
+##Meeting 01/26/2016
+
+###Discussions at the end of 3rd leture：
+1. True of False:
+	- There are computers using more than one million cores today
+		- TRUE: Tianhe2, over 3 million cores
+	- THe Top500 benchmark predicts the performance of many applications
+		- FALSE: only matrix-matrix multiply
+1. What are 3 important benchmarks? What do they measure?
+	- Top500: HP Linpack, solving linear equations
+	- STREAM: Measure "Sustainable Memory Bandwidth"
+	- RandomAccess
+1. Do all benchmarks specify the specific code that must be run?
+	-	RandomAccess do not have a specific code.
+
