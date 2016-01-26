@@ -33,3 +33,5 @@ This repository is for the PHY905(sec004) Spring 2016, Designing and building ap
 1. Do all benchmarks specify the specific code that must be run?
 	-	RandomAccess do not have a specific code.
 
+###Discussions in 4th lecture:
+1. For the tables at the beginning, what might be problem? [Hint: it's about measuring performance]
