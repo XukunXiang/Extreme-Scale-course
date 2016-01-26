@@ -34,4 +34,10 @@ This repository is for the PHY905(sec004) Spring 2016, Designing and building ap
 	-	RandomAccess do not have a specific code.
 
 ###Discussions in 4th lecture:
-1. For the tables at the beginning, what might be problem? [Hint: it's about measuring performance]
+- For the tables at the beginning, what might be problem? [Hint: it's about measuring performance]
+- Assume that the sustainable memory bandwidth is 12 Gbytes/second. For a DAXPY operation, what is the maximum possible performance, using the same analysis as we used for the Sparse matrix-vector multiply. 
+	- DAXPY
+	- Do i=1,n; y(i) = alpha * x(i) + y(i); enddo
+	- What is the ratio of the performance for DAXPY and the peak performance for the processor?
+
+###Discussions in 5th lecture:
