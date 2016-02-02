@@ -41,3 +41,8 @@ This repository is for the PHY905(sec004) Spring 2016, Designing and building ap
 	- What is the ratio of the performance for DAXPY and the peak performance for the processor?
 
 ###Discussions in 5th lecture:
+
+
+###Questions in HW2
+- [Task#2] As mentioned in the forum, the cache now is shared by multi cores, I'm not sure how much is used for the one I was running. Maybe I can find an answer from HPCC. 
+- 
