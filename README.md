@@ -18,8 +18,13 @@ This repository is for the PHY905(sec004) Spring 2016, Designing and building ap
 	- [Strassen Algorithm] (https://en.wikipedia.org/wiki/Strassen_algorithm)
 		- reduce the number of operations
 
-##Meeting 01/26/2016
+##Meeting 02/16/2016
 
+###About Vectorization
+- Find out how to request the compiler to do the vectorization, if it's not by default
+	- Do we need to tell the compiler about the stucture of the cpu so that it can vectorize the code more properly?
+ 
+	
 ###Discussions at the end of 3rd leture：
 1. True of False:
 	- There are computers using more than one million cores today
